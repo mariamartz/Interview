@@ -60,7 +60,7 @@
            Spatial join was used to determine which facilities were located in which county. The rank of the county was then used to determine the rank of the facility
            for example: if a facility was in a high priority county the facility was then designated as high priority
            
-    - Phase 1 area: Counties next to each other with high number of high priorirty facilities - spatial join was used to count today number of facilities in each county
+   - Phase 1 area: Counties next to each other with high number of high priorirty facilities - spatial join was used to count today number of facilities in each county
    
         
                
