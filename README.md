@@ -9,7 +9,7 @@ Vizualization: https://mariana11martz11.carto.com/kuviz/86e306d5-f5c0-4526-a9a1-
 
 ### Tools Used:
 
--Jupyter Notebooks: This notebook was used for gathering thoughts, trial and error, and analysis planning. Added here for workflow and through process showcasing. NOT THE FINAL PRODUCT
+-Jupyter Notebooks: This notebook was used for gathering thoughts, trial and error, and analysis planning. Added here for workflow and thought process showcasing. NOT THE FINAL PRODUCT
 
 -Spyder
 
