@@ -68,4 +68,4 @@
   
   
   ### Next Steps
-                  
+      - Verify the spatial autocorrelations with Moran             
