@@ -44,7 +44,7 @@ Vizualization: https://mariana11martz11.carto.com/kuviz/86e306d5-f5c0-4526-a9a1-
   - Ranking System Development:
       Quantile ranking system was developed to determine priority. 
                
-       This method is based on a normal distribution. first step constited of checking for the distribution of the total ( corn +soybeans) yield Bu/acre. As seen in the graph below the distribution is little bit skewed.However, the dataset is large enough to assume normal distribution for the purposes of this study (~1800 data points)
+       This method is based on a normal distribution. first step consisted of checking for the distribution of the total ( corn + soybeans) yield Bu/acre. As seen in the graph below the distribution is little bit skewed.However, the dataset is large enough to assume a normal distribution for the purposes of this study (~1800 data points)
             ![image](https://user-images.githubusercontent.com/74034683/129844154-e272c82c-2ab4-4121-ad8a-ebf9007bac25.png)
             
    Next, the percetile threshold were chosen to provide a clear distinction between each group based on the number of standard deviations away from the mean
