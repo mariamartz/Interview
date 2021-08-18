@@ -5,7 +5,7 @@
 ### Deliverables:
 Final Script: CleaningScript.py
 
-Vizualization: https://mariana1martz11.carto.com/kuviz/86e306d5-f5c0-4526-a9a1-d812b01a0ad7
+Vizualization: https://mariana11martz11.carto.com/kuviz/86e306d5-f5c0-4526-a9a1-d812b01a0ad7
 
 ### Tools Used:
 
