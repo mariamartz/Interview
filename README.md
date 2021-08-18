@@ -63,9 +63,11 @@
         
                
   ### Recommendations
-  
+  - In General: the marketplace team should focus on enrolling the high priority facilities - total= 87 facilities
+  - Phase 1: If the marketplace team wants to focus on cluster area, the designated Phase 1 area has been identified as counties with high number of high priority facilities next to each other. - Illinois counties 
   
   
   
   ### Next Steps
-      - Verify the spatial autocorrelations with Moran             
+      - Verify the spatial autocorrelations with Moran I
+      - Map out Phase 2 and 3 incorporating medium priority facilities
