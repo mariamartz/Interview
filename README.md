@@ -27,8 +27,10 @@
      --> therefore for this analysis the null were dropped from the data ser ( alternative method could include evenly sprinkling these values across states)
       
 - Joining Key Development:
-       Crops Prodcutions dataset had FIPS ids for state and county that needed to be formatted and joined to create a new column 'GEOID' to match the counties dataset
-       Purpose: Assign each county its designated yield statistic from the crop dataset
+     Crops Prodcutions dataset had FIPS ids for state and county that needed to be formatted and joined to create a new column 'GEOID' to match the counties dataset
+       
+    Purpose: Assign each county its designated yield statistic from the crop dataset
+       
  - Column drops and Renaming:
        This was for general cleaning and readability purposes 
   
@@ -36,8 +38,11 @@
   ### Analysis
   
   - Ranking System Development:
-               Quantile ranking system was developed to determine priority. This method 
+      Quantile ranking system was developed to determine priority. 
                
+       This method 
+            ![image](https://user-images.githubusercontent.com/74034683/129844154-e272c82c-2ab4-4121-ad8a-ebf9007bac25.png)
+   
                
   ### Recommendations
   
