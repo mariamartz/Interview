@@ -5,6 +5,7 @@
 
 
 ### Tools Used:
+
 -Jupyter Notebooks
 
 -Spyder
@@ -47,15 +48,19 @@
    ![image](https://user-images.githubusercontent.com/74034683/129844622-61deb81f-293e-4894-8b35-16cd5aa744fe.png)
    
    The ranking was chosen as follows:
-   90th perntile - high priority
+   
+   90th perntile - high priority ~+1 Standard Deviation
 
-   50th percentile - medium priority
+   50th percentile - medium priority - median
 
-   25th percentile- low priority
+   25th percentile- low priority - less than 1 standard diviation
    
    ### Spatial Analysis
+   - Facilities in high yield counties development:
+           Spatial join was used to determine which facilities were located in which county. The rank of the county was then used to determine the rank of the facility
+           for example: if a facility was in a high priority county the facility was then designated as high priority
    
-
+        
                
   ### Recommendations
   
