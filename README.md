@@ -10,3 +10,13 @@
 -Spyder
 
 -CARTO
+
+### DataSets
+1.) Facility Locations
+
+2.) US Counties
+
+3.)Crop Production : USDA NASS 2020 Yield (bu/acre) for Corn and Soybeans
+
+### Data Cleaning
+- Dropping Null Decision: 
