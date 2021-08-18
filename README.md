@@ -1,6 +1,6 @@
 # Case Study - Marketplace Target Enrollment 
 
-## The Goal: Identify Facilities that the Markeplace Team can prioritize enrollment
+## The Goal: Identify Facilities that the Markeplace Team can prioritize for enrollment
 
 ### Deliverables:
 Final Script: CleaningScript.py
