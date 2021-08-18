@@ -2,7 +2,9 @@
 
 ## The Goal: Identify Facilities that the Markeplace Team can prioritize enrollment
 
-
+### Deliverables:
+Final Script: CleaningScript.py
+Vizualization: https://mariana11martz11.arto.com/kuviz/86e30d5-f5c0-4526-a9a1-d812b01a0ad7
 
 ### Tools Used:
 
